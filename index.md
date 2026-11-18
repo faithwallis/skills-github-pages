@@ -1,4 +1,3 @@
-## Resume
 ## Portfolio
 * First portfolio piece
 * Second portfolio piece

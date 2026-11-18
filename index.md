@@ -4,4 +4,3 @@
 * Second portfolio piece
 * Third portfolio piece
 ## Contact Information
-
